@@ -40,7 +40,7 @@
 }
 .nav >li >a {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
 }
 
 .navbar-toggle {
@@ -51,11 +51,10 @@
 .img-header{
   height: 300px;
   padding-top: 0px;
+  width: 100%;
 }
 .thumbnail-sec{
-  padding-top: 60px;
+  padding-top: 100px;
 }
-
-
 
     body { padding-top: 100px; }
