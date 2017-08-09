@@ -47,6 +47,15 @@
   padding: 10px;
   margin: 25px 15px 25px 0;
 }
+/* custom carrousel */
+.img-header{
+  height: 300px;
+  padding-top: 0px;
+}
+.thumbnail-sec{
+  padding-top: 60px;
+}
+
 
 
     body { padding-top: 100px; }
