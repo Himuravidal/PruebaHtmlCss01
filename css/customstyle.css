@@ -57,10 +57,23 @@
 .thumbnail-sec{
   padding-top: 100px;
 }
-
 .img-blog{
-  width: 900px;
-  height: 300px;
+ max-height: 300px;
+
 }
 
-    body { padding-top: 50px; }
+#header-id {
+      background-image: url(../images/ciclosformacion.jpg) ;
+      width: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      padding-top:100px;
+      min-height: 400px;
+      }
+      .title{
+        font-size: 63px;
+        color: black;
+      }
+
+    body { padding-top: 40px; }
