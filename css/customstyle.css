@@ -1,6 +1,7 @@
 .footer{
-  background-color: #e7c200;
+  background-color: black;
   padding: 10px;
+  margin-top: 100px;
 }
 
 .fa {
@@ -56,24 +57,29 @@
 }
 .thumbnail-sec{
   padding-top: 100px;
+
+}
+.img-nail{
+  max-height: 300px;
 }
 .img-blog{
- max-height: 300px;
+  max-height: 300px;
 
 }
 
 #header-id {
-      background-image: url(../images/ciclosformacion.jpg) ;
-      width: 100%;
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
-      padding-top:100px;
-      min-height: 400px;
-      }
-      .title{
-        font-size: 63px;
-        color: black;
-      }
+  background-image: url(../images/ciclosformacion.jpg) ;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top:100px;
+  min-height: 400px;
+}
+.title{
+  font-size: 63px;
+  color: black;
+}
 
-    body { padding-top: 40px; }
+body { padding-top: 40px;
+}
